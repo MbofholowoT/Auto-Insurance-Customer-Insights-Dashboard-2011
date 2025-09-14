@@ -11,7 +11,8 @@ It provides insights into customers, claims, policy distribution, and income seg
 - **Total Customers**
 - **Total Claims**
 - **Average Customer Value**
-
+-**Average Monthly Premium**
+-**Total Policies**
 ### Visuals
 **Bar Chart** – Customers by State  
 **Line Chart** – Monthly Claim Trends  
